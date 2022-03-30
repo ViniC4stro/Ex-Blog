@@ -1,0 +1,25 @@
+body{
+    margin: 0px
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.data, .conteudo{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.data{
+    color:rgb(240, 11, 11);
+}
+
+.principal{
+    width: 50%;
+    margin: auto;
+    background-color: burlywood;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
